@@ -1,2 +1,2 @@
 # Hello-Github
-New here
+New here just try some functions
